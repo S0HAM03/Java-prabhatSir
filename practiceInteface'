@@ -1,0 +1,34 @@
+interface Camera {
+    void clickphoto(){
+        System.out.println("Click images without location");
+    }
+}
+
+interface Gps {
+    void GpsService(){
+        System.out.println("click images with location");
+    }
+}
+
+class Phone implements Camera, Gps{
+    @override
+    public void clickphoto(){
+        System.out.println("Take a photo");
+    }
+}
+
+// public class PracticeInterface{
+//     Phone apple = new Phone();
+//     System.out.println("hello");
+// } 
+
+public class PracticeInterface {
+    public static void main(String[] args) {
+        
+        Phone apple = new Phone();
+        
+        apple.clickphoto();
+
+    }
+
+}
