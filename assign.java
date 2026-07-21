@@ -1,4 +1,9 @@
-class Animal {
+// ==========================================
+// CONCEPT: Hierarchical Inheritance
+// ==========================================
+
+// Base class
+class AssignAnimal {
     void legs(){
         System.out.println("They have Legs");
     }
@@ -7,27 +12,34 @@ class Animal {
     }
 }
 
-class Tiger extends Animal{
+// In Hierarchical Inheritance, multiple child classes inherit from ONE single parent class.
+// Child 1
+class Tiger extends AssignAnimal{
     void attack(){
         System.out.println("they attack on other species");
     }
 }
 
-class Goat extends Animal{
-    void Grestest(){
+// Child 2
+class Goat extends AssignAnimal{
+    void greatest(){
         System.out.println("Messi and ronaldo");
     }
 }
 
-class donkey extends Animal{
-    void faculty(){
-        System.out.println("IYKYK");
+// Child 3
+class Cat extends AssignAnimal{
+    void sound(){
+        System.out.println("Meow");
     }
 }
 
-public class assign {
+public class Assign {
     public static void main(String[] args){
+        // Creating an object of Child 2
         Goat messi = new Goat();
+        
+        // Calling a method inherited from AssignAnimal
         messi.reproduce();
     }
 }
