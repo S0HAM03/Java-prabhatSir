@@ -1,3 +1,5 @@
+package Day2ofTraining;
+
 // ==========================================
 // CONCEPT: Exception Handling & Scanner Input
 // ==========================================

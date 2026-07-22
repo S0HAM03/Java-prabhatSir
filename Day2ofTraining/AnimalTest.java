@@ -1,3 +1,5 @@
+package Day2ofTraining;
+
 // ==========================================
 // CONCEPT: Simple Inheritance & Object Creation
 // ==========================================

@@ -1,3 +1,5 @@
+package Day2ofTraining;
+
 // ==========================================
 // CONCEPT: Interfaces and Multiple Inheritance
 // ==========================================
