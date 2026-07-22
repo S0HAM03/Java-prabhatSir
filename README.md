@@ -5,16 +5,23 @@ This project is a beginner-friendly collection of Java exercises designed to tea
 
 ---
 
-## 📚 What this Repository Contains
+## 📚 Training Progress (Day-by-Day)
 
-This repository is packed with bite-sized, runnable Java files that each demonstrate a specific OOP or core Java concept:
+This repository is structured day-by-day, tracking the core Java concepts learned throughout the training:
 
-- **`AnimalTest.java`**: Demonstrates **Simple Inheritance** and Object Creation. Contains a base class and a `Dog` subclass.
-- **`Assign.java`**: Demonstrates **Hierarchical Inheritance**, where multiple classes (`Tiger`, `Goat`, `Cat`, `Donkey`) inherit from a single `AssignAnimal` base class.
-- **`MMain.java`**: Demonstrates **Multilevel Inheritance**. Shows how a child class (`supercar`) inherits from a parent (`Car`), which inherits from a grandparent (`Vehical`).
-- **`PracticeInterface.java`**: Demonstrates **Interfaces and Multiple Inheritance**. Shows how Java uses interfaces (`Camera`, `Gps`) to allow a class (`Phone`) to inherit multiple behaviors.
-- **`Hybridinhetitance.java`**: Demonstrates **Hybrid Inheritance**. A class (`Person`) extends another class (`Employee`) while simultaneously implementing an interface (`Hobby`).
-- **`exceptionHandling.java`**: Demonstrates basic **Exception Handling** using `try-catch` blocks to catch an `ArithmeticException` (division by zero), and reading user input using the `Scanner` class.
+### ☀️ Day 1
+- **Focus**: Introduction & Setup
+- **What we learned**: General chatting session, environment setup, and understanding the very basics of Java.
+
+### ☀️ Day 2
+- **Focus**: Object-Oriented Programming (OOP)
+- **What we learned**: Deep dive into inheritance structures. Covered **Simple Inheritance**, **Hierarchical Inheritance**, **Multilevel Inheritance**, and **Hybrid Inheritance**. We also explored **Interfaces** for multiple inheritance, and basic **Exception Handling** (`try-catch` blocks) alongside accepting user input using the `Scanner` class.
+- **Folder**: `Day2ofTraining/`
+
+### ☀️ Day 3
+- **Focus**: Core Logic & Algorithms
+- **What we learned**: Writing logic-heavy programs. Topics include array manipulation (reversing arrays), mathematical checks (prime numbers, palindromes), generating Fibonacci series (iterative and recursive), variable swapping, typecasting, and parameterized constructors.
+- **Folder**: `Day3ofTraining/`
 
 ---
 
