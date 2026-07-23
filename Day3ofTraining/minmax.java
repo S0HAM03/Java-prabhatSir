@@ -1,5 +1,9 @@
 package Day3ofTraining;
 
+// ==========================================
+// CONCEPT: Array Min/Max Finding Algorithm
+// ==========================================
+
 public class minmax {
     public static void main(String[] args){
         int[] arr = {1,34,23,0,-10};

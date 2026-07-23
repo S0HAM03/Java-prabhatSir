@@ -1,5 +1,9 @@
 package Day3ofTraining;
 
+// ==========================================
+// CONCEPT: String/Array Palindrome Checker
+// ==========================================
+
 public class palindrome {
     public static void main(String[] args) {
         

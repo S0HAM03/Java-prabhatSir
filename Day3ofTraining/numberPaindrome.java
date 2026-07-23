@@ -1,5 +1,9 @@
 package Day3ofTraining;
 
+// ==========================================
+// CONCEPT: Number Palindrome Checker
+// ==========================================
+
 public class numberPaindrome {
     public static void main(String[] args) { 
 
@@ -23,4 +27,3 @@ public class numberPaindrome {
     }
 
 }
-

@@ -1,5 +1,9 @@
 package Day3ofTraining;
 
+// ==========================================
+// CONCEPT: Prime Number Checker Algorithm
+// ==========================================
+
 public class primeNumbers {
     public static void main(String[] args){
         int num = 16;

@@ -23,6 +23,11 @@ This repository is structured day-by-day, tracking the core Java concepts learne
 - **What we learned**: Writing logic-heavy programs. Topics include array manipulation (reversing arrays), mathematical checks (prime numbers, palindromes), generating Fibonacci series (iterative and recursive), variable swapping, typecasting, and parameterized constructors.
 - **Folder**: `Day3ofTraining/`
 
+### ☀️ Day 4
+- **Focus**: Sorting Algorithms & Array Manipulation
+- **What we learned**: Deep dive into fundamental sorting and array algorithms. Covered **Bubble Sort**, **Selection Sort**, **Merge Sort** (concept), merging two sorted arrays, the **Dutch National Flag Algorithm** (sorting 0s, 1s, and 2s), and basic **String Manipulation**.
+- **Folder**: `Day4ofTraining/`
+
 ---
 
 ## 🚀 How to Clone and Run Locally

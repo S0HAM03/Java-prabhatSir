@@ -1,5 +1,9 @@
 package Day3ofTraining;
 
+// ==========================================
+// CONCEPT: Typecasting (char to int)
+// ==========================================
+
 public class ASCICON {
     public static void main(String [] args){
         char a1 = 'a';
