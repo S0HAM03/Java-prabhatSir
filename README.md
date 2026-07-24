@@ -25,12 +25,12 @@ This repository is structured day-by-day, tracking the core Java concepts learne
 
 ### ☀️ Day 4
 - **Focus**: Sorting Algorithms & Array Manipulation
-- **What we learned**: Deep dive into fundamental sorting and array algorithms. Covered **Bubble Sort**, **Selection Sort**, **Merge Sort** (concept), merging two sorted arrays, the **Dutch National Flag Algorithm** (sorting 0s, 1s, and 2s), and basic **String Manipulation**.
+- **What we learned**: Deep dive into fundamental sorting and array algorithms. Covered **Bubble Sort**, **Selection Sort**, **Merge Sort**, merging two sorted arrays, the **Dutch National Flag Algorithm** (sorting 0s, 1s, and 2s in one pass), and basic **String Manipulation**.
 - **Folder**: `Day4ofTraining/`
 
 ### ☀️ Day 5
 - **Focus**: Search Algorithms & Data Structures
-- **What we learned**: Implemented the highly efficient **Binary Search** algorithm. Explored advanced data structures like **HashSet** (to find duplicate numbers efficiently) and **HashMap** (to count character frequencies without crashes). Finally, practiced more array manipulation by pushing all zeros to the end of an array.
+- **What we learned**: Implemented the highly efficient **Binary Search** algorithm. Explored advanced data structures like **HashSet** (to find duplicate numbers efficiently) and **HashMap** (to count character frequencies without crashes, and to efficiently count repeated array elements). Finally, practiced more array manipulation by pushing all zeros to the end of an array.
 - **Folder**: `Day5ofTraining/`
 
 ---
