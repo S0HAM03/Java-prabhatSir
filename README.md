@@ -33,6 +33,11 @@ This repository is structured day-by-day, tracking the core Java concepts learne
 - **What we learned**: Implemented the highly efficient **Binary Search** algorithm. Explored advanced data structures like **HashSet** (to find duplicate numbers efficiently) and **HashMap** (to count character frequencies without crashes, and to efficiently count repeated array elements). Finally, practiced more array manipulation by pushing all zeros to the end of an array.
 - **Folder**: `Day5ofTraining/`
 
+### ☀️ Day 6
+- **Focus**: Transition to Python Fundamentals
+- **What we learned**: Explored core Python concepts. Covered **Tuple Unpacking** (swapping variables), **Lambda Functions** (map and filter), handling dynamic arguments with **`*args` and `**kwargs`**, calculating **Factorials**, manually filtering list duplicates, and deeply understanding Python **Decorators**.
+- **Folder**: `Day6ofTraining/`
+
 ---
 
 ## 🚀 How to Clone and Run Locally
