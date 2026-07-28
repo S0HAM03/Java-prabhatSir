@@ -37,7 +37,7 @@ This repository is structured day-by-day, tracking the core Java concepts learne
 - **Focus**: Transition to Python Fundamentals
 - **What we learned**: Explored core Python concepts. Covered **Tuple Unpacking** (swapping variables), **Lambda Functions** (map and filter), handling dynamic arguments with **`*args` and `**kwargs`**, calculating **Factorials**, manually filtering list duplicates, and deeply understanding Python **Decorators**.
 - **Bonus Material**: Added a comprehensive `InterviewQuestions` subfolder containing 30+ Python scripts covering DSA, OOPs, Pandas, File Handling, and company-specific interview questions!
-- **Folder**: `Day6ofTraining/`
+- **Folder**: `Day6ofTraining_Python_Nikhil_Sir/`
 
 ---
 
