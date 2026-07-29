@@ -1,4 +1,4 @@
-# Java by Prabhat Sir ☕
+# Java by Prabhat Sir 
 
 Welcome to the **Java by Prabhat Sir** repository! 
 This project is a beginner-friendly collection of Java exercises designed to teach and demonstrate fundamental Object-Oriented Programming (OOP) concepts. Every file in this repository has been carefully documented with educational comments to help new Java developers understand exactly how the code works under the hood.
